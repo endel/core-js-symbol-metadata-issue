@@ -1,0 +1,15 @@
+{
+  "name": "core-js-symbol-metadata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Endel Dreyer",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "core-js": "^3.44.0"
+  }
+}
